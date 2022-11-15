@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.4d452ddf.css",
+    "main.js": "/my-app/static/js/main.70ae9c97.js",
+    "static/js/787.dd4029b4.chunk.js": "/my-app/static/js/787.dd4029b4.chunk.js",
+    "static/media/hh.png": "/my-app/static/media/hh.31b71a723ab4175f6556.png",
+    "static/media/nyan-cat.gif": "/my-app/static/media/nyan-cat.69c9628c463729fc5f25.gif",
+    "static/media/vk.png": "/my-app/static/media/vk.ef8649bf31e6204e5ce0.png",
+    "static/media/telegram.png": "/my-app/static/media/telegram.745102336853acb2bd50.png",
+    "static/media/Fat.webp": "/my-app/static/media/Fat.5d80452a4dd4d04d2b64.webp",
+    "index.html": "/my-app/index.html",
+    "main.4d452ddf.css.map": "/my-app/static/css/main.4d452ddf.css.map",
+    "main.70ae9c97.js.map": "/my-app/static/js/main.70ae9c97.js.map",
+    "787.dd4029b4.chunk.js.map": "/my-app/static/js/787.dd4029b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d452ddf.css",
+    "static/js/main.70ae9c97.js"
+  ]
+}
