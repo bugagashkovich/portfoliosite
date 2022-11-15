@@ -1,0 +1,36 @@
+.main {
+  background: linear-gradient(to bottom right, #40434E, #262935);
+  color: #F6F8FF;
+}
+
+.nyan {
+  width: 63vw
+}
+
+.fat {
+  width: 15vw;
+  padding: 2vw;
+}
+
+.nav {
+  color: transparent;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link .active {
+  color: green;
+}
+
+.footer {
+  background-color: #0e0f115b;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}
+
+.footer .icon {
+  width: 6vh;
+  padding-right: 3vh
+}

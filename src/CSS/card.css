@@ -1,0 +1,36 @@
+.card {
+  padding: 3%;
+  background: linear-gradient(to bottom right, #4B9D9D, #55D1D1);
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.card .card-title{
+  color: #EDF060;
+  text-overflow: clip;
+}
+
+.card .card-subtitle {
+  color: #EDF060
+}
+
+.card hr{
+  border-top: 2px solid #40434E;
+}
+
+.card .text-main {
+  color: #EDEDED;
+}
+
+.card .text-bg {
+  color: #40434E;
+  font-weight: bold;
+}
+
+.card .emoji {
+  color: #40434E;
+  font-weight: bold;
+  text-align: center;
+  text-overflow: clip;
+
+}
