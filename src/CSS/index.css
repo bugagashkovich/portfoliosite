@@ -1,15 +1,36 @@
 .main {
   background: linear-gradient(to bottom right, #40434E, #262935);
   color: #F6F8FF;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.336)
 }
 
 .nyan {
-  width: 63vw
+  width: 63vw;
+   filter: drop-shadow(30px 10px 8px #0000003a);
+
 }
 
 .fat {
   width: 15vw;
   padding: 2vw;
+   filter: drop-shadow(30px 10px 8px #0000003a);
+
+}
+
+.wizard {
+  width: 20vw;
+ filter: drop-shadow(30px 10px 8px #0000003a);
+}
+
+.wizard1 {
+  width: 6vw;
+   filter: drop-shadow(30px 10px 8px #0000003a);
+}
+
+.cat {
+  width: 12vw;
+   filter: drop-shadow(30px 10px 8px #0000003a);
+   margin: 3%;
 }
 
 .nav {
@@ -30,7 +51,9 @@
   padding-bottom: 3vh;
 }
 
-.footer .icon {
+.icon {
   width: 6vh;
-  padding-right: 3vh
+  padding-right: 3vh;
+  filter: drop-shadow(10px 2px 2px #00000049);
+
 }

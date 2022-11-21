@@ -1,17 +1,17 @@
 .card {
-  padding: 3%;
-  background: linear-gradient(to bottom right, #4B9D9D, #55D1D1);
   margin-top: 3%;
   margin-bottom: 3%;
+  background: linear-gradient(to bottom right, #4B9D9D, #55D1D1);
+ 
 }
 
 .card .card-title{
-  color: #EDF060;
+  color: #fdff94;
   text-overflow: clip;
 }
 
 .card .card-subtitle {
-  color: #EDF060
+  color: #fdff94
 }
 
 .card hr{
@@ -23,14 +23,11 @@
 }
 
 .card .text-bg {
-  color: #40434E;
+  color: #6f5585;
   font-weight: bold;
+  text-shadow: none;
 }
 
-.card .emoji {
-  color: #40434E;
-  font-weight: bold;
-  text-align: center;
-  text-overflow: clip;
-
+.card .card-link {
+  color: #EDEDED;
 }

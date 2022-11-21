@@ -1,4 +1,5 @@
 import { Fade } from "react-awesome-reveal";
+import wizard from "../img/wizard.gif";
 
 function Main() {
   return (
@@ -10,7 +11,9 @@ function Main() {
         <div className="card shadow">
           <div className="card-body">
             <h3 className="card-title">Здравствуй, HR! </h3>
-            <h4 className="card-subtitle mb-2">Меня зовут Александр.</h4>
+            <h4 className="card-subtitle mb-2">
+              Меня зовут Александр. Приятно познакомиться!
+            </h4>
             <div className="row">
               <div className="col-md-6">
                 <hr></hr>
@@ -32,7 +35,7 @@ function Main() {
               </div>
               <div className="col-md-6">
                 <h1 className="card-text emoji">
-                  <span>(╯ ° □ °) ╯ ┻━┻</span>
+                  <img src={wizard} className="img-fluid wizard" />
                 </h1>
               </div>
             </div>

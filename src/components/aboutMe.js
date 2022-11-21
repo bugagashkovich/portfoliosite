@@ -14,7 +14,7 @@ function AboutMe() {
                 <p className="card-text text-main ">
                   Мне <span className="text-bg">27 лет,</span> окончил
                   магистратуру
-                  <span className="text-bg">СПБГПУ</span> по специальности
+                  <span className="text-bg"> СПБГПУ </span> по специальности
                   электрофизические и электрохимические процессы в
                   машиностроении. Также имею неоконченный курс аспиранта по той
                   же специальности.

@@ -6,7 +6,7 @@ function Footer() {
   return (
     <div className="footer">
       <div className="container">
-        <p className="">Мои соцсети</p>
+        <h6 className="">Мои соцсети:</h6>
         <a href="https://vk.com/id2285894">
           {" "}
           <img src={vk_icon} className="icon" />

@@ -1,32 +1,25 @@
+import wiz from "../img/wizard1.gif";
+import vk_icon from "../img/vk.png";
+import telegram_icon from "../img/telegram.png";
+import hh_icon from "../img/hh.png";
+
 function Navbar() {
   return (
     <nav className="navbar  navbar-expand-lg bg-transparent">
-      <div className="container-fluid">
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarNavAltMarkup"
-          aria-controls="navbarNavAltMarkup"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav">
-            <ul className="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll">
-              <a class="nav-link active" aria-current="main" href="#">
-                Главная
-              </a>
-              <a class="nav-link" aria-current="about" href="#">
-                Обо мне
-              </a>
-              <a class="nav-link" aria-current="pet" href="#">
-                Пэт проекты
-              </a>
-            </ul>
-          </div>
+      <div className="container">
+        <img src={wiz} className="img-fluid wizard1" />
+        <div>
+          {" "}
+          <a href="https://vk.com/id2285894">
+            {" "}
+            <img src={vk_icon} className="icon" />
+          </a>
+          <a href="https://t.me/GlushikhinAS">
+            <img src={telegram_icon} className="icon" />
+          </a>
+          <a href="https://spb.hh.ru/resume/8b8510aaff09eef2240039ed1f454647557559">
+            <img src={hh_icon} className="icon" />
+          </a>
         </div>
       </div>
     </nav>
