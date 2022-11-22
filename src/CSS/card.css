@@ -23,9 +23,11 @@
 }
 
 .card .text-bg {
-  color: #6f5585;
+  color: #212329;
   font-weight: bold;
   text-shadow: none;
+  font-weight: bold;
+  
 }
 
 .card .card-link {

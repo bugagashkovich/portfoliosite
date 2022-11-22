@@ -29,7 +29,10 @@ function Portfolio() {
                   <a href="#" class="card-link">
                     Проект
                   </a>
-                  <a href="#" class="card-link">
+                  <a
+                    href="https://github.com/bugagashkovich/weather_portfolio"
+                    class="card-link"
+                  >
                     Github
                   </a>
                 </div>
